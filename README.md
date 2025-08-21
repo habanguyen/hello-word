@@ -4,8 +4,8 @@ readme-edits
 first commit
 about me
 
-my name is Ha
-age: 21
-
+my name is Ha Nguyen Ba
+age: 22
+hobbies : múic, travel
 
 main
