@@ -6,6 +6,7 @@ about me
 
 my name is Ha Nguyen Ba
 age: 22
-hobbies : múic, travel
-
+hobbies : coding, football
+goal: Become a fullstack developer
+Learning : Git & Github workflow
 main
